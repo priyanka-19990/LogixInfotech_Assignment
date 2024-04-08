@@ -1,0 +1,145 @@
+header{
+   text-align: center;
+   background-color:rgb(116, 112, 153);
+   font-weight:bolder;
+   font-size:20px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+   height: 30px;
+}
+.card {
+    width: 540px;
+    height: 145px;
+    padding-left: 10px;
+    padding-right: 5px;
+    background-color: powderblue;
+    border-radius: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    border: 0.5px solid rgb(26, 24, 24);
+}
+.card1 {
+    width: 540px;
+    height: 153px;
+    padding-left: 10px;
+    padding-right: 5px;
+    background-color: powderblue;
+    border-radius: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    border: 0.5px solid rgb(26, 24, 24);
+}
+.card2 {
+    width: 540px;
+    height: 120x;
+    padding-left: 15px;
+    padding-right: 10px;
+    background-color: powderblue;
+    border-radius: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    border: 0.5px solid rgb(26, 24, 24);
+}
+.card3 {
+    width: 540px;
+    height: 100px;
+    padding-left: 10px;
+    padding-right: 5px;
+    background-color: powderblue;
+    border-radius: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    border: 0.5px solid rgb(26, 24, 24);
+}
+.t1{
+    width: 520px;
+    margin-left:12px;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-weight: bolder;
+    text-align: center;
+    border: 0.5px solid rgb(26, 24, 24);
+    background-color: rgb(12, 104, 232);
+    border-top-left-radius: 5% 60%;
+    border-top-right-radius: 5% 60%;
+    border-bottom-left-radius:50% 100%;
+    border-bottom-right-radius: 50% 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.required {
+    color: red; 
+    margin-left: 5px;
+    font-size: medium;
+}
+label{
+    font-size: x-small;
+    margin: 1px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+input{
+    border: none; 
+    outline: none;
+}
+#Input0 {
+    width: 417px;
+    margin-left:1px;
+}
+#Input1 {
+    width: 200px;
+    margin-left: 8px;
+}
+#Input2 {
+    width: 120px;
+    margin-left: 4.5px;
+}
+#Input3 {
+    width: 419px;
+    height: 30px;
+    margin-left: 45px;
+    margin-top: 5px;
+}
+#Input4 {
+    width: 130px;
+    margin-left: 47px;
+}
+#Input5 {
+    width: 100px;
+}
+#Input6 {
+    width: 88px;
+}
+#Input7 {
+    width: 250px;
+    margin-left: 43px;
+}
+#Input8 {
+    width: 120px;
+}
+#Input9 {
+    width: 420px;
+    margin-left: 22px;
+    align-items: center;
+}
+#Input10 {
+    width: 210px;
+    margin-left: 20px;
+}
+#Input11 {
+    width: 190px;
+    margin-left: 27px;
+}
+#Input12 {
+    width: 350px;
+    margin-left: 27px;
+}
+#Input13{
+    width: 100px;
+    margin-left: 10px;
+}
+#Input14{
+    width: 100px;
+    margin-left: 10px;
+}
+#label1{
+    margin-left: 100px;
+}
+.vertical-line {
+    border-left: 1px solid black; 
+    height: 100vh; 
+}
+
